@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://teathymered.com/sitemap.xml
